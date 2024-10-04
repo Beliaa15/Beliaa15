@@ -1,5 +1,5 @@
-Hi 👋, I'm Mohamed Hesham
-A passionate frontend developer from Egypt
+Hi 👋, I'm Mohamed Hesham 
+a passionate frontend developer from Egypt
 
 - 🌱 I’m interested in full stack development and data sciences
 
